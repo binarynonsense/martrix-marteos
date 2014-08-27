@@ -6,6 +6,8 @@ This code is distributed for educational purposes only.
 
 This is the original version I made in 2009.
 
+License: GPL v2
+
 /////////////////////////////////////////////////////
 
 1- CONTROLS:
@@ -16,13 +18,3 @@ d/6/right arrow = move right
 s/2/down arrow = move down
 
 note: arrow keys don't seem to respond as well as the normal keys
-
------------------------------------------------------------------------------
---                               License                                  -- 
------------------------------------------------------------------------------
---                                                                         --
--- MaRTrix is free software; you can redistribute it and/or modify it      --
--- under the terms of the GNU General Public License version 2 as          -- 
--- published by the Free Software Foundation.                              --
--- See COPYING file for more info about the license                        --                                                                   --
---         
